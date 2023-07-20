@@ -20,6 +20,7 @@ img {
   justify-content: center;
   flex-direction: column;
   background-color: #e9d5ca;
+  cursor: pointer;
 }
 
 h1 {
