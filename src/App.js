@@ -7,7 +7,9 @@ function App() {
   return (
   <div className="container">
     <h1>Kurtlar Vadisi Konsey Üyeleri</h1>
-
+<div className="inputContainer">
+<input className="search" type="text" placeholder="Konsey Üyesi Giriniz.."/>
+</div>
 
   </div>;
   )
